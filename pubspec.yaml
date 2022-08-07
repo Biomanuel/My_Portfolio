@@ -3,7 +3,7 @@ description: A portfolio for Emmanuel Oladayo. A software engineer with a breadt
 version: 1.0.0+1
 
 environment:
-  sdk: ">=2.16.2 <3.0.0"
+  sdk: ">=2.15.1 <3.0.0"
 
 dependencies:
   flutter:
@@ -15,6 +15,7 @@ dev_dependencies:
     sdk: flutter
 
   flutter_lints: ^1.0.0
+  font_awesome: any
 
 flutter:
   uses-material-design: true
